@@ -1,9 +1,8 @@
 # Charles-config-V-6.0-
-This is document written to configure Charles version greater than 5.0  
+This is document written to configure Charles-proxy to Android version greater than 5.0  
 This article describes the steps to be able to analyse HTTP request in Android app version greater than 5.0.
 
 # The requirements are:
-
  • Charles proxy
  • Android device
  • Android app apk (it can point to any environment, i.e. production or staging)
